@@ -1,0 +1,13 @@
+Instructions:
+- Create a latex file for the report
+- Review and complete Setion 3 of lab 5 exercise "TCP Connection Handshake" to answer questions 1-6
+
+
+- Review and complete Section 4 of lab exercise 5 "TCP Data Transfer" to answer questions 7-11
+
+
+- Question 12: review from ChatGPT?
+
+
+
+
